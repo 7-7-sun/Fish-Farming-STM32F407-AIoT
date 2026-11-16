@@ -1,0 +1,45 @@
+# Keil MDK build outputs
+**/Objects/
+**/Listings/
+**/DebugConfig/
+*.uvguix.*
+*.scvd
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.map
+*.lst
+*.lnp
+*.sct
+*.build_log.htm
+
+# Frontend build and dependencies
+node_modules/
+dist/
+dist-ssr/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment files (keep examples)
+.env
+.env.local
+.env.*.local
+
+# OS and editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local backups and duplicate extracted copy
+.dsh-backup/
+.remote-check/
+.tools/
+rar重点代码压缩包/
